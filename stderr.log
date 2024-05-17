@@ -1,0 +1,490 @@
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:197: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'アハマドさん', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/アハマドさん.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/アハマドさん.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:193: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf_linestring.to_file(shapefile_output_linestring, driver='ESRI Shapefile', encoding='utf-8')
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:194: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf_polygon.to_file(shapefile_output_polygon, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'Aeon_Mall_JGC', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_JGC.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_JGC.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'Aeon_Mall_JGC', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_JGC.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_JGC.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+Bad Request: /
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+Internal Server Error: /
+Internal Server Error: /
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'アハマドさん', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/アハマドさん.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/アハマドさん.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'Aeon_Mall_TJ', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_TJ.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_TJ.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'Aeon_Mall_TJ', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_TJ.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_TJ.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+Bad Request: /
+Bad Request: /
+[UID:2057][23552] Child process with pid: 27077 was killed by signal: 15, core dump: 0
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+Internal Server Error: /
+OpenBLAS blas_thread_init: pthread_create failed for thread 4 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 5 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 6 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 7 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 8 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 9 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 10 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 11 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 12 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 13 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 14 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 15 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 16 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 17 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 18 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 19 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 20 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 21 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 22 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 23 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 24 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 25 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 26 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 27 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 28 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 29 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 30 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 31 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 32 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 33 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 34 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 35 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 36 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 37 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 38 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 39 of 40: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+Bad Request: /
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'Aeon_Mall_TJ', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_TJ.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_TJ.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'Aeon_Mall_TJ', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_TJ.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_TJ.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'AM_Long_Biên', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/AM_Long_Biên.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/AM_Long_Biên.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'AM_Long_Biên', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/AM_Long_Biên.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/AM_Long_Biên.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][9814] Child process with pid: 12597 was killed by signal: 15, core dump: 0
+[UID:2057][33790] Child process with pid: 35162 was killed by signal: 15, core dump: 0
+[UID:2057][20247] Child process with pid: 21637 was killed by signal: 15, core dump: 0
+[UID:2057][35430] Child process with pid: 36683 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+[UID:2057][9582] Child process with pid: 12289 was killed by signal: 15, core dump: 0
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+Not Found: /favicon.ico
+{'file': 'あつい', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/5_KimuraKenji/あつい.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/あつい.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+[UID:2057][34618] Child process with pid: 37427 was killed by signal: 15, core dump: 0
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+Bad Request: /
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+Bad Request: /
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'あつい', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/5_KimuraKenji/あつい.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/あつい.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'あつい', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/5_KimuraKenji/あつい.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/あつい.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+Internal Server Error: /
+{'file': 'アハマドさん', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/アハマドさん.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/アハマドさん.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:203: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf.to_file(shapefile_output, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'circle_by_アハマド', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/circle_by_アハマド.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/circle_by_アハマド.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:193: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf_linestring.to_file(shapefile_output_linestring, driver='ESRI Shapefile', encoding='utf-8')
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:200: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf_polygon.to_file(shapefile_output_polygon, driver='ESRI Shapefile', encoding='utf-8')
+{'file': 'Aeon_Mall_JGC', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_JGC.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_JGC.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][34627] Child process with pid: 37351 was killed by signal: 15, core dump: 0
+[UID:2057][19926] Child process with pid: 21280 was killed by signal: 15, core dump: 0
+Invalid HTTP_HOST header: 'www.geofence-api.asiaresearchinstitute.com'. You may need to add 'www.geofence-api.asiaresearchinstitute.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+[UID:2057][23623] Child process with pid: 26318 was killed by signal: 15, core dump: 0
+[UID:2057][6905] Child process with pid: 9061 was killed by signal: 15, core dump: 0
+[UID:2057][31918] Child process with pid: 34390 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][2638] Child process with pid: 4579 was killed by signal: 15, core dump: 0
+[UID:2057][26422] Child process with pid: 27653 was killed by signal: 15, core dump: 0
+[UID:2057][7084] Child process with pid: 9149 was killed by signal: 15, core dump: 0
+[UID:2057][29618] Child process with pid: 30321 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+[UID:2057][39160] Child process with pid: 4135 was killed by signal: 15, core dump: 0
+[UID:2057][27728] Child process with pid: 30596 was killed by signal: 15, core dump: 0
+[UID:2057][34265] Child process with pid: 36814 was killed by signal: 15, core dump: 0
+[UID:2057][38714] Child process with pid: 40030 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:200: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf_polygon.to_file(shapefile_output_polygon, driver='ESRI Shapefile', encoding='utf-8')
+Not Found: /favicon.ico
+{'file': '3_polygon', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/3_polygon.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/3_polygon.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+{'file': 'Aeon_Mall_TJ', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/Aeon_Mall_TJ.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/Aeon_Mall_TJ.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][26427] Child process with pid: 31392 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Invalid HTTP_HOST header: 'www.geofence-api.asiaresearchinstitute.com'. You may need to add 'www.geofence-api.asiaresearchinstitute.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][23833] Child process with pid: 27275 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Invalid HTTP_HOST header: 'www.geofence-api.asiaresearchinstitute.com'. You may need to add 'www.geofence-api.asiaresearchinstitute.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][1883] Child process with pid: 4755 was killed by signal: 15, core dump: 0
+[UID:2057][25014] Child process with pid: 25382 was killed by signal: 15, core dump: 0
+[UID:2057][4532] Child process with pid: 7202 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][24372] Child process with pid: 29180 was killed by signal: 15, core dump: 0
+[UID:2057][21968] Child process with pid: 25029 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][21080] Child process with pid: 24014 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][34070] Child process with pid: 37555 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][24787] Child process with pid: 28635 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][32957] Child process with pid: 36376 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+[UID:2057][36199] Child process with pid: 39657 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][40396] Child process with pid: 3691 was killed by signal: 15, core dump: 0
+[UID:2057][21977] Child process with pid: 25284 was killed by signal: 15, core dump: 0
+[UID:2057][22058] Child process with pid: 24790 was killed by signal: 15, core dump: 0
+[UID:2057][11015] Child process with pid: 15180 was killed by signal: 15, core dump: 0
+[UID:2057][40257] Child process with pid: 1784 was killed by signal: 15, core dump: 0
+Bad Request: /
+[UID:2057][24542] Child process with pid: 28788 was killed by signal: 15, core dump: 0
+[UID:2057][8532] Child process with pid: 9551 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][30780] Child process with pid: 33582 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][30446] Child process with pid: 34639 was killed by signal: 15, core dump: 0
+[UID:2057][32546] Child process with pid: 35567 was killed by signal: 15, core dump: 0
+Bad Request: /
+[UID:2057][11634] Child process with pid: 15787 was killed by signal: 15, core dump: 0
+[UID:2057][7597] Child process with pid: 10841 was killed by signal: 15, core dump: 0
+Bad Request: /
+[UID:2057][8805] Child process with pid: 15635 was killed by signal: 15, core dump: 0
+[UID:2057][13008] Child process with pid: 16225 was killed by signal: 15, core dump: 0
+[UID:2057][14200] Child process with pid: 22492 was killed by signal: 15, core dump: 0
+[UID:2057][34071] Child process with pid: 39261 was killed Bad Request: /
+Bad Request: /
+[UID:2057][36225] Child process with pid: 37449 was killed by signal: 15, core dump: 0
+[UID:2057][32485] Child process with pid: 35277 was killed by signal: 15, core dump: 0
+[UID:2057][19031] Child process with pid: 20222 was killed by signal: 15, core dump: 0
+[UID:2057][29848] Child process with pid: 32381 was killed by signal: 15, core dump: 0
+[UID:2057][19347] Child process with pid: 23014 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+[UID:2057][30018] Child process with pid: 34481 was killed by signal: 15, core dump: 0
+[UID:2057][38167] Child process with pid: 1685 was killed by signal: 15, core dump: 0
+[UID:2057][3875] Child process with pid: 6760 was killed by signal: 15, core dump: 0
+[UID:2057][40445] Child process with pid: 3000 was killed by signal: 15, core dump: 0
+[UID:2057][25629] Child process with pid: 27834 was killed by signal: 15, core dump: 0
+[UID:2057][10331] Child process with pid: 14180 was killed by signal: 15, core dump: 0
+[UID:2057][17075] Child process with pid: 19404 was killed by signal: 15, core dump: 0
+[UID:2057][18269] Child process with pid: 20526 was killed by signal: 15, core dump: 0
+[UID:2057][27940] Child process with pid: 30390 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+[UID:2057][2103] Child process with pid: 7680 was killed by signal: 15, core dump: 0
+[UID:2057][22111] Child process with pid: 23854 was killed by signal: 15, core dump: 0
+[UID:2057][20744] Child process with pid: 22089 was killed by signal: 15, core dump: 0
+[UID:2057][9315] Child process with pid: 11344 was killed by signal: 15, core dump: 0
+[UID:2057][6709] Child process with pid: 8955 was killed by signal: 15, core dump: 0
+[UID:2057][39100] Child process with pid: 680 was killed by signal: 15, core dump: 0
+[UID:2057][35446] Child process with pid: 36231 was killed by signal: 15, core dump: 0
+[UID:2057][37400] Child process with pid: 40157 was killed by signal: 15, core dump: 0
+[UID:2057][30534] Child process with pid: 33743 was killed by signal: 15, core dump: 0
+[UID:2057][1389] Child process with pid: 3003 was killed by signal: 15, core dump: 0
+[UID:2057][15197] Child process with pid: 17427 was killed by signal: 15, core dump: 0
+Bad Request: /
+[UID:2057][34780] Child process with pid: 38347 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+[UID:2057][18512] Child process with pid: 22086 was killed by signal: 15, core dump: 0
+Not Found: /favicon.ico
+/home/u8378009/public_html/geofence-api.asiaresearchinstitute.com/geoAPI/geoAPI/views.py:200: UserWarning: Column names longer than 10 characters will be truncated when saved to ESRI Shapefile.
+  gdf_polygon.to_file(shapefile_output_polygon, driver='ESRI Shapefile', encoding='utf-8')
+Bad Request: /
+{'file': 'MM-Angga_tes', 'geojson_file': 'https://geofence.asiaresearchinstitute.com/upload/files/2_DemoAccount/MM-Angga_tes.geojson', 'zip_file': 'https://geofence-api.asiaresearchinstitute.com/output/zip/MM-Angga_tes.zip', 'code': 200, 'status': 'success', 'message': 'Convert GeoJSON To Shapefile Finished'}
+[UID:2057][7648] Child process with pid: 9018 was killed by signal: 15, core dump: 0
+[UID:2057][29027] Child process with pid: 33222 was killed by signal: 15, core dump: 0
+[UID:2057][34409] Child process with pid: 3819 was killed by signal: 15, core dump: 0
+[UID:2057][38105] Child process with pid: 39221 was killed by signal: 15, core dump: 0
+[UID:2057][36191] Child process with pid: 40450 was killed by signal: 15, core dump: 0
+[UID:2057][31437] Child process with pid: 34879 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][38034] Child process with pid: 40083 was killed by signal: 15, core dump: 0
+[UID:2057][5414] Child process with pid: 8553 was killed by signal: 15, core dump: 0
+[UID:2057][18114] Child process with pid: 20474 was killed by signal: 15, core dump: 0
+Invalid HTTP_HOST header: 'www.geofence-api.asiaresearchinstitute.com'. You may need to add 'www.geofence-api.asiaresearchinstitute.com' to ALLOWED_HOSTS.
+Bad Request: /
+[UID:2057][11366] Child process with pid: 14584 was killed by signal: 15, core dump: 0
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+Bad Request: /
+[UID:2057][13281] Child process with pid: 20720 was killed by signal: 15, core dump: 0
