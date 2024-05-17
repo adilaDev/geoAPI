@@ -5,13 +5,13 @@ Rest API converter file geojson menjadi :
 - WKT (.wkt)
 - and CSV (.csv)
 
-Demo URL [here](https://geofence-api.asiaresearchinstitute.com/?name=2_DemoAccount&file=3_polygon)
+Demo URL [here](https://geofence-api.asiaresearchinstitute.com/?a=2_DemoAccount&b=3_polygon)
 
-URL: https://geofence-api.asiaresearchinstitute.com/?name=your_userame&file=your_filename_geojson
+URL: https://geofence-api.asiaresearchinstitute.com/?a=your_userame&b=your_filename_geojson
 
 Request for paramter required :
-- name : masukan username unik anda
-- file : masukan nama file GeoJSON anda
+- a : masukan username unik anda
+- b : masukan nama file GeoJSON anda
 
 ## Output API:
 
