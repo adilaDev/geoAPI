@@ -19,7 +19,9 @@ Demo URL [here](https://geofence-api.asiaresearchinstitute.com/?name=2_DemoAccou
   "message": "Convert GeoJSON To Shapefile Finished"
 }
 ```
-https://geofence-api.asiaresearchinstitute.com/?name=your_userame&file=your_filename_geojson
+
+URL: https://geofence-api.asiaresearchinstitute.com/?name=your_userame&file=your_filename_geojson
+
 Request for paramter required :
 - name : masukan username unik anda
 - file : masukan nama file GeoJSON anda
