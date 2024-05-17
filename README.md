@@ -9,9 +9,7 @@ Demo URL [here](https://geofence-api.asiaresearchinstitute.com/?name=2_DemoAccou
 
 URL: https://geofence-api.asiaresearchinstitute.com/?a=your_userame&b=your_filename_geojson
 
-Request for paramter required :
-- a : masukan username unik anda
-- b : masukan nama file GeoJSON anda
+Request for parameter required
 
 ## Output API:
 
